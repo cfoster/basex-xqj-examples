@@ -24,7 +24,7 @@ public class ExecutingCommands
     if(args.length != 4)
     {
       System.out.println(
-        "usage: java net.xqj.basex.examples.ExecutingCommands "+
+        "usage: java ExecutingCommands "+
         "host port user password");
       return;
     }

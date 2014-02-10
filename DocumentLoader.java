@@ -28,7 +28,7 @@ public class DocumentLoader
     if(args.length != 6)
     {
       System.out.println(
-        "usage: java net.xqj.basex.examples.DocumentLoader "+
+        "usage: java DocumentLoader "+
         "host port user password databaseName pathToDocument");
       return;
     }

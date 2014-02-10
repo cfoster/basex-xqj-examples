@@ -21,7 +21,7 @@ public class HelloWorld
     if(args.length != 4)
     {
       System.out.println(
-        "usage: java net.xqj.basex.examples.HelloWorld "+
+        "usage: java HelloWorld "+
         "host port user password");
       return;
     }

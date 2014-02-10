@@ -22,7 +22,7 @@ public class BindingVariables
     if(args.length != 4)
     {
       System.out.println(
-        "usage: java net.xqj.basex.examples.BindingVariables "+
+        "usage: java BindingVariables "+
         "host port user password");
       return;
     }

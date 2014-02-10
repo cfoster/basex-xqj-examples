@@ -33,7 +33,7 @@ public class InvokingModuleFunctions
     if(args.length != 4)
     {
       System.out.println(
-        "usage: java net.xqj.basex.examples.functions.InvokingModuleFunctions "+
+        "usage: java InvokingModuleFunctions "+
         "host port user password");
 
       return;
