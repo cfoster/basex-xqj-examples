@@ -16,8 +16,8 @@ import net.xqj.basex.BaseXXQDataSource;
 
 public class HelloWorld
 {
-	public static void main(String[] args) throws XQException
-	{
+  public static void main(String[] args) throws XQException
+  {
     if(args.length != 4)
     {
       System.out.println(
